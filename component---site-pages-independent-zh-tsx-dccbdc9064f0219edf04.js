@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{BxFN:function(n,t,a){"use strict";a.r(t);var e=a("q1tI"),o=a.n(e),r=a("9kay"),u=function(){var n=Object(r.b)().t;return o.a.createElement(o.a.Fragment,null,n("独立页面"))};u.noLayout=!0,t.default=u}}]);
+//# sourceMappingURL=component---site-pages-independent-zh-tsx-dccbdc9064f0219edf04.js.map

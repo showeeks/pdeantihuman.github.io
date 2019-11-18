@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8,9],{BxFN:function(t,n,a){"use strict";a.r(n);var e=a("q1tI"),u=a.n(e),r=a("9kay"),c=function(){var t=Object(r.b)().t;return u.a.createElement(u.a.Fragment,null,t("独立页面"))};c.noLayout=!0,n.default=c},tOJG:function(t,n,a){"use strict";a.r(n);var e=a("BxFN");n.default=e.default}}]);
+//# sourceMappingURL=component---site-pages-independent-en-tsx-dfc6be55a2013a78ea57.js.map
